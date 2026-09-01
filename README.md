@@ -42,3 +42,4 @@ Using the equations above, determine the dispersion-limited fiber length.
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/41fb9e3f-5c12-47b2-b473-83b99b42294e" />
 
 # Result
+The dispersion-limited fiber length was calculated theoretically and verified through OptiPerformer simulation, showing acceptable eye-diagram closure and BER performance at the calculated distance.
